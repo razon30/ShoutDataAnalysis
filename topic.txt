@@ -1,0 +1,21 @@
+    
+Topic: 0 
+Words: 0.018*"life" + 0.015*"anxiety" + 0.012*"issue" + 0.012*"people" + 0.010*"depression" + 0.010*"family" + 0.010*"health" + 0.008*"year" + 0.008*"many" + 0.008*"problem"
+Topic: 1 
+Words: 0.018*"much" + 0.015*"get" + 0.013*"need" + 0.013*"time" + 0.011*"day" + 0.011*"take" + 0.008*"people" + 0.008*"sick" + 0.008*"know" + 0.008*"today"
+Topic: 2 
+Words: 0.021*"day" + 0.015*"like" + 0.014*"get" + 0.013*"week" + 0.011*"time" + 0.010*"feel" + 0.010*"go" + 0.010*"got" + 0.009*"thing" + 0.009*"back"
+Topic: 3 
+Words: 0.023*"reduce" + 0.021*"via" + 0.020*"success" + 0.019*"burnout" + 0.017*"help" + 0.017*"uk" + 0.010*"learn" + 0.009*"cope" + 0.009*"tip" + 0.009*"business"
+Topic: 4 
+Words: 0.038*"mindfulness" + 0.035*"stressed" + 0.023*"employee" + 0.022*"hour" + 0.019*"study" + 0.016*"week" + 0.015*"according" + 0.015*"peace" + 0.014*"survey" + 0.012*"recent"
+Topic: 5 
+Words: 0.018*"way" + 0.016*"teacher" + 0.014*"time" + 0.011*"cbd" + 0.010*"school" + 0.009*"new" + 0.008*"best" + 0.007*"day" + 0.007*"home" + 0.007*"help"
+Topic: 6 
+Words: 0.022*"workplace" + 0.014*"wellbeing" + 0.013*"tip" + 0.012*"managing" + 0.011*"deal" + 0.011*"employee" + 0.010*"cloud" + 0.010*"article" + 0.010*"read" + 0.009*"health"
+Topic: 7 
+Words: 0.046*"health" + 0.023*"business" + 0.018*"mental" + 0.018*"productivity" + 0.018*"exercise" + 0.017*"beat" + 0.016*"fitness" + 0.014*"increase" + 0.014*"diet" + 0.012*"help"
+Topic: 8 
+Words: 0.102*"like" + 0.098*"fun" + 0.087*"play" + 0.080*"begin" + 0.055*"sa" + 0.023*"na" + 0.019*"inspiration" + 0.017*"pa" + 0.013*"ko" + 0.010*"ako"
+Topic: 9 
+Words: 0.038*"age" + 0.013*"long" + 0.011*"quote" + 0.010*"working" + 0.009*"burnout" + 0.008*"worker" + 0.008*"home" + 0.008*"hour" + 0.006*"food" + 0.006*"life"
