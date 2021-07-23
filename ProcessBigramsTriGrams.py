@@ -26,7 +26,7 @@ from nltk import WordNetLemmatizer
 import string
 
 
-cleanedDataFile = r'D:\Software\Python\pyWorks\TweeterProject\code\ShoutTweet\WorksFromAnaconda\semiSupervised\DSCwoKey-22-8-20.xlsx'
+cleanedDataFile = r'D:\Software\Python\pyWorks\TweeterProject\code\ShoutTweet\WorksFromAnaconda\semiSupervised\DSCwoKey-22-8-20.xlsx'  
 columnActualTweet = 'Tweet'
 columnCleanedData = 'cleanedData'
 convert = 'convert'
@@ -124,7 +124,15 @@ def use_ngrams_only(texts, lemmatizer, translate_table, stopwords):
 
 
 def drawTheImage(texts):
-    wordcloud = WordCloud(width = 800, height = 500, random_state=21, max_font_size=110,  collocations=False).generate(use_ngrams_only(texts, wordnet_lemmatizer, translate_table, stop))
+    wordcloud = WordCloud(width = 800, 
+                          height = 500, 
+                          random_state=21, 
+                          max_font_size=110,  
+                          collocations=False).generate(use_ngrams_only(texts, 
+                                                                       wordnet_lemmatizer, 
+                                                                       translate_table, 
+                                                                       stop)
+                                                                       )
     plt.figure(figsize=(10,7))
     plt.imshow(wordcloud, interpolation="bilinear")
     plt.axis('off')
