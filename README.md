@@ -9,7 +9,7 @@ Email: marzia.hoquetania@eng.ox.ac.uk
 
 2. **Md Razon Hossain**
 
-	Jahangirnagar University, Institute of Information Technology, Savar, Bangladesh 
+	Institute of Information Technology, Jahangirnagar University, Savar, Bangladesh 
 
 3. **Nuzhat Jahanara**
 
